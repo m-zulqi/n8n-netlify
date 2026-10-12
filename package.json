@@ -1,0 +1,8 @@
+{
+    "name": "n8n-netlify",
+    "private": true,
+    "type": "module",
+    "dependencies": {
+        "n8n": "latest"
+    }
+}
